@@ -1,4 +1,4 @@
-# Download-Setinel2-with-Python
+# Download-Sentinel2-with-Python
 
 ## 1. Install sentinelsat package
 ```
